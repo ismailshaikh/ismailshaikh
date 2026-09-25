@@ -99,3 +99,21 @@ id,topic,category
 98,Solo Female Travel Ke Liye Sabse Safe Desh Kaunsa,misc_facts
 99,Indian Rupee Sabse Zyada Value Kaha Milti Hai,misc_facts
 100,2026 Me Indians Ke Liye Best Budget Destinations,misc_facts
+101,Bali Sirf ₹35000 Mein Poora Trip,rupee_amount_hook
+102,Vietnam ₹40000 Mein 7 Din Ka Plan,rupee_amount_hook
+103,Sri Lanka ₹22000 Mein Full Trip,rupee_amount_hook
+104,Dubai ₹55000 Mein 5 Din Ka Budget Plan,rupee_amount_hook
+105,Nepal Sirf ₹9000 Mein Poora Ghoom Lo,rupee_amount_hook
+106,Malaysia ₹45000 Mein Complete Trip Plan,rupee_amount_hook
+107,Bali Ke Hindu Temple Jaha Videsh Me Bhi Om Namah Shivay Sunayi Deta Hai,pilgrimage_guide
+108,Mauritius Ka Wo Mandir Jaha Indians Ki Purani Yaadein Zinda Hai,pilgrimage_guide
+109,Nepal Ka Pashupatinath Budget Darshan Guide,pilgrimage_guide
+110,Cambodia Ka Angkor Wat Aur Uska Hindu Connection,pilgrimage_guide
+111,Trinidad Me Basi Indian Community Ka Purana Mandir,pilgrimage_guide
+112,Thailand Ke Erawan Shrine Jaha Hindu Devta Ki Puja Hoti Hai,pilgrimage_guide
+113,90% Indians Ye Galti Karte Hain Thailand Visa Lagate Waqt,mistake_warning
+114,90% Log Ye Galti Karte Hain Airport Currency Exchange Mein,mistake_warning
+115,90% Indians Ye Galti Karte Hain Dubai Mein Ghoomte Waqt,mistake_warning
+116,90% Log Ye Galti Karte Hain Videsh Ka SIM Card Lete Waqt,mistake_warning
+117,90% Indians Ye Galti Karte Hain Bali Scooter Rent Karte Waqt,mistake_warning
+118,90% Log Ye Galti Karte Hain Passport Photocopy Na Rakh Ke,mistake_warning
