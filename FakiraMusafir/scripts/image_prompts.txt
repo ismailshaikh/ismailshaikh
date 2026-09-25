@@ -1,0 +1,188 @@
+IMAGE GENERATION PROMPTS - Top 10 Places to Visit in India in November
+Scene-wise, matching each [B-ROLL: ...] cue in scripts/manual_input.txt
+Use with any free AI image tool (Bing Image Creator, Leonardo free tier,
+Canva Magic Media, etc.) or as search terms for stock footage.
+Style baseline unless noted: cinematic travel photography, natural warm
+light, high detail, 16:9 for LONG scenes / 9:16 for SHORTS scenes.
+
+=====================================================================
+LONG VIDEO - 28 SCENES (in script order)
+=====================================================================
+
+01. [pleasant weather india]
+Wide cinematic shot of lush green Indian countryside under mild
+autumn sunlight, gentle breeze moving through trees, soft warm
+lighting, clear sky, travel photography style.
+
+02. [india map travel]
+Overhead flat-lay shot of a physical map of India on a wooden desk,
+travel pins marking destinations, a compass and a cup of chai beside
+it, warm indoor lighting, travel-planning aesthetic.
+
+03. [indian traveler vlogging]
+Young Indian male traveler, South Asian ethnicity, backpack on,
+holding a smartphone recording himself outdoors, candid smiling
+expression, natural daylight, travel vlog aesthetic.
+
+04. [excited tourist]
+Young Indian tourist with an amazed, wide-eyed excited expression,
+mouth open in surprise, pointing off-camera, vibrant outdoor
+background, warm natural light.
+
+05. [ooty hills tea garden]
+Rolling green tea garden hills of Ooty, Tamil Nadu, misty morning
+light, layered hills fading into fog, cinematic wide shot.
+
+06. [toy train ooty]
+The Nilgiri Mountain Railway blue toy train winding through green
+hilly terrain near Ooty, steam rising, cinematic travel shot.
+
+07. [andaman beach aerial]
+Aerial drone shot of a turquoise Andaman Islands beach, white sand,
+crystal-clear water, tropical palm trees along the shore.
+
+08. [scuba diving underwater]
+Underwater shot of a diver exploring a colorful coral reef in clear
+blue tropical water, sunlight rays filtering through the surface.
+
+09. [goa beach sunset]
+Golden hour sunset over a Goa beach, palm tree silhouettes, gentle
+waves, warm orange and pink sky.
+
+10. [goa beach shacks]
+Colorful beach shacks on a Goa beach at dusk, string lights and
+hammocks, relaxed tropical evening vibe.
+
+11. [pushkar lake camels]
+Pushkar lake with stone ghats, camels resting nearby, warm Rajasthan
+golden light, temple domes visible in the background.
+
+12. [camel fair crowd]
+Crowded Pushkar Camel Fair with hundreds of camels and Rajasthani
+men in colorful turbans, dusty golden-hour light, festive atmosphere.
+
+13. [jaisalmer fort desert]
+Jaisalmer Fort's golden sandstone walls rising from the Thar desert,
+dramatic warm sunset light, wide establishing shot.
+
+14. [desert camping night]
+Desert camping tents under a clear starry night sky in Rajasthan, a
+bonfire glowing in the foreground, silhouettes of people around it.
+
+15. [hidden gem travel]
+A quiet, secluded, scenic Indian travel spot with soft mysterious
+lighting, suggesting a lesser-known hidden destination.
+
+16. [munnar tea gardens mist]
+Misty Munnar tea garden hills at dawn, Kerala, layered green hills
+fading into soft fog, cinematic wide shot.
+
+17. [waterfall kerala]
+A lush green Kerala waterfall cascading through dense tropical
+forest, strong post-monsoon water flow, vivid greenery.
+
+18. [coorg coffee estate]
+A Coorg coffee plantation with ripe red coffee cherries on the bush,
+misty Karnataka hills in the background.
+
+19. [coffee harvest]
+Close-up of hands harvesting ripe red coffee cherries in a Coorg
+plantation, warm earthy tones, shallow depth of field.
+
+20. [white desert rann kutch]
+The vast white salt desert of the Rann of Kutch stretching to the
+horizon under a clear sky, minimalist and stark.
+
+21. [rann utsav night tents]
+Rann Utsav festival at night: illuminated white tents and string
+lights spread across the white salt desert under a full moon.
+
+22. [kerala houseboat backwaters]
+A traditional Kerala houseboat gliding through palm-lined
+backwaters, golden hour light reflecting on calm water.
+
+23. [houseboat sunset]
+Silhouette of a Kerala houseboat against a vivid orange backwater
+sunset, still water, palm tree silhouettes.
+
+24. [warning sign travel]
+A dramatic caution/warning sign graphic overlaid on a mountain road
+background, red warning tones, high contrast.
+
+25. [ladakh mountains road]
+A winding mountain road cutting through the stark, barren Himalayan
+landscape of Ladakh, dramatic clouds, vast scale.
+
+26. [snowfall mountain pass]
+Heavy snowfall over a high-altitude Himalayan mountain pass in
+Ladakh, a road partially covered in snow, cold dramatic winter light.
+
+27. [calendar travel plan]
+A desk calendar with a travel date circled in red, next to an open
+notebook and pen, warm indoor planning-desk aesthetic.
+
+28. [india travel montage]
+Collage-style composite blending diverse Indian travel landscapes -
+desert, backwaters, mountains, and beach - into one vibrant travel
+poster style image.
+
+=====================================================================
+SHORT 1 - Rann Utsav (4 scenes, vertical 9:16)
+=====================================================================
+
+S1-1. [rann kutch white desert]
+Vertical shot of the vast white salt desert of Rann of Kutch under
+a clear sky, minimalist and stark, 9:16 framing.
+
+S1-2. [rann utsav tents]
+Vertical shot of illuminated white Rann Utsav tents spread across
+the white desert at dusk, warm string lights, 9:16 framing.
+
+S1-3. [full moon desert night]
+Vertical shot of a full moon over the white salt desert at night,
+the ground glowing softly under moonlight, 9:16 framing.
+
+S1-4. [tent camping]
+Vertical shot of a cozy desert camping tent interior/exterior with
+warm lighting, Rajasthan desert camp setting, 9:16 framing.
+
+=====================================================================
+SHORT 2 - Ladakh Last Window (4 scenes, vertical 9:16)
+=====================================================================
+
+S2-1. [ladakh road mountains]
+Vertical shot of a winding mountain road through Ladakh's stark
+Himalayan terrain, dramatic sky, 9:16 framing.
+
+S2-2. [snowfall mountain pass]
+Vertical shot of heavy snowfall over a Ladakh mountain pass, cold
+dramatic light, 9:16 framing.
+
+S2-3. [calendar dates]
+Vertical shot of a calendar page with a date circled and an arrow
+showing a five-month gap to the next travel window, 9:16 framing.
+
+S2-4. [booking phone]
+Vertical close-up of a hand holding a smartphone showing a travel
+booking app/website, warm indoor light, 9:16 framing.
+
+=====================================================================
+SHORT 3 - Pushkar Camel Fair (4 scenes, vertical 9:16)
+=====================================================================
+
+S3-1. [pushkar camel fair crowd]
+Vertical shot of hundreds of camels and colorfully turbaned
+Rajasthani men at the Pushkar Camel Fair, dusty golden light,
+9:16 framing.
+
+S3-2. [pushkar lake]
+Vertical shot of Pushkar lake with stone ghats and temple domes in
+the background, warm golden light, 9:16 framing.
+
+S3-3. [camel racing rajasthan]
+Vertical action shot of camel racing in the desert with dust
+kicking up, spectators watching, 9:16 framing.
+
+S3-4. [desert camp tent]
+Vertical shot of a rented desert camp tent at Pushkar with warm
+lighting, Rajasthani decor accents, 9:16 framing.
