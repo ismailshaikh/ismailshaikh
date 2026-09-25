@@ -1,0 +1,118 @@
+SAMPLE / TEST INPUT - Topic: "Thailand Trip Under 30000"
+Generated using /prompts/claude_pro_script_prompt.txt and /prompts/shorts_factory_prompt.txt
+Replace this file daily with fresh Claude Pro output. Keep the ===TYPE=== / ===END=== format.
+
+===TYPE: LONG===
+TITLE:
+1. Thailand Sirf ₹30,000 Mein?! Yeh Jugaad Kisi Ne Nahi Bataya
+2. Full Thailand Trip Under 30K - Flight, Hotel, Food Sab Kuch
+3. Indians Ke Liye Sabse Sasta Videsh - Thailand Budget Guide
+
+DESCRIPTION:
+Guys, is video mein maine bataya hai poora Thailand trip sirf ₹30,000 mein kaise plan karein - flight se lekar street food tak, har jugaad cover kiya hai. Agar tum bhi apni first international trip plan kar rahe ho, yeh video end tak dekho. Fakira Musafir pe aise hi budget videsh yatra ke video aate rehte hain, channel ko subscribe karna mat bhoolna.
+
+TAGS:
+thailand trip budget, thailand under 30000, cheap thailand tour, visa free countries for indians, budget travel india, fakira musafir, thailand for indians, bangkok budget guide, cheapest international trip, indian traveler, solo travel india, videsh yatra, thailand visa on arrival, backpacking asia, budget bangkok pattaya
+
+THUMBNAIL_TEXT:
+THAILAND ₹30,000!
+
+THUMBNAIL_PROMPT:
+A young Indian backpacker with a small bag standing on a Thailand beach at golden hour, Bangkok skyline silhouette in background, bold contrast, vibrant orange and teal colors, YouTube thumbnail style, dramatic lighting
+
+SCRIPT:
+Guys, ek jagah hai jaha tumhara pura Europe trip ka budget nahi, sirf tumhare ek mahine ki salary lagti hai, aur log wahan se lautte hi nahi chahte. [B-ROLL: thailand beach aerial]
+Naam hai Thailand, aur aaj main tumhe dikhaunga poora trip sirf tees hazaar rupaye mein. [B-ROLL: bangkok skyline]
+
+Kya scene hai bhai, Fakira Musafir mein tumhara swagat hai. Main hoon tumhara desi traveler dost, aur aaj ka topic hai - budget Thailand. [B-ROLL: indian traveler vlogging]
+Video ke end tak rukna, kyunki main flight, hotel aur khane tak ka pura hisaab dene wala hoon. [B-ROLL: travel planning notebook]
+
+Chapter ek - Flight aur Visa. [B-ROLL: airport departure board]
+Delhi ya Mumbai se Bangkok ki direct flight agar tum do teen mahine pehle book karo, to round trip sirf aath se dus hazaar mein mil jaati hai. [B-ROLL: airplane window view]
+Aur best part - Thailand ka visa on arrival hai Indians ke liye, matlab embassy ke chakkar nahi lagane padte. [B-ROLL: passport stamp]
+
+Chapter do - Rehna aur ghoomna. [B-ROLL: budget hostel room]
+Bangkok mein ek achha hostel tumhe pandrah se do sau rupaye prati raat mein mil jaayega, aur agar Pattaya ya Phuket jaana hai to local bus bahut sasti padti hai. [B-ROLL: local bus thailand]
+Grab app se scooter rent karke poora sheher ghoomna sabse sasta jugaad hai. [B-ROLL: scooter rental street]
+
+Chapter teen - Khana aur paisa bachana. [B-ROLL: street food night market]
+Street food yahan sirf saath se dus rupaye mein mil jaata hai, aur agar Indian khana miss ho raha hai to Bangkok mein Indian restaurants bhi har gali mein hain. [B-ROLL: indian restaurant abroad]
+Currency exchange hamesha airport ke bahar city mein karo, wahan rate zyada accha milta hai. [B-ROLL: currency exchange counter]
+
+To total mila ke - flight das hazaar, rehna saat hazaar, khana aur ghoomna teraah hazaar - poora hisaab tees hazaar ke andar. [B-ROLL: budget calculator money]
+Agar tumhe first international trip plan karni hai to Thailand se behtar koi shuruaat nahi hai guys. [B-ROLL: sunset thailand temple]
+
+Comment karo agla desh kaha jau?
+===END===
+
+===TYPE: SHORT1===
+TITLE:
+1. Is Desh Mein Jaate Hi Log Wapas Nahi Aana Chahte 😱 #Shorts
+
+DESCRIPTION:
+Thailand ka ek raaz jo koi nahi batata. Fakira Musafir.
+
+TAGS:
+thailand shorts, budget travel, fakira musafir, visa free, travel scam, indian traveler, bangkok, cheap travel, shorts india, viral shorts
+
+THUMBNAIL_TEXT:
+YE RAAZ?!
+
+THUMBNAIL_PROMPT:
+Close up shocked Indian traveler face with Thailand beach blurred in background, bold red arrow pointing at destination, high contrast YouTube shorts thumbnail
+
+SCRIPT:
+Thailand jaana matlab apni salary ka mazaak udana - agar tumhe pata nahi yeh ek trick. [B-ROLL: thailand street] [ON-SCREEN TEXT: SIRF 30K MEIN]
+Log sochte hain videsh yatra sirf ameeron ke liye hai, lekin Thailand mein ek din ka kharcha sirf paanch sau rupaye hai. [B-ROLL: local market thailand]
+Visa on arrival, sasti flight, aur street food - yeh combo kisi aur desh mein nahi milta. [B-ROLL: passport visa stamp] [ON-SCREEN TEXT: VISA ON ARRIVAL]
+Isiliye log ek baar jaake wapas Thailand baar baar jaana chahte hain - ab samajh aaya na scene? [B-ROLL: happy tourist beach]
+Part 2 chahiye? Comment karo - Fakira.
+===END===
+
+===TYPE: SHORT2===
+TITLE:
+1. 3 Desh Jaha ₹1 = ₹4 Ban Jaate Hain 🤑 #Shorts
+
+DESCRIPTION:
+Rupya yahan king ban jaata hai. Fakira Musafir.
+
+TAGS:
+cheap countries, rupee conversion, budget travel, fakira musafir, visa free countries, shorts india, indian traveler, cheapest trip, travel hacks, listicle shorts
+
+THUMBNAIL_TEXT:
+₹1 = ₹4?!
+
+THUMBNAIL_PROMPT:
+Split screen collage of Thailand, Vietnam and Indonesia landmarks with rupee currency symbols floating, bold yellow text style, vibrant shorts thumbnail
+
+SCRIPT:
+3 desh jaha tumhara ek rupya, chaar rupye ke barabar chalta hai. [B-ROLL: currency notes] [ON-SCREEN TEXT: TOP 3 DESH]
+Number teen - Vietnam, jaha ek plate khana sirf pachaas rupaye mein. [B-ROLL: vietnam street food]
+Number do - Indonesia, jaha Bali ka beach resort bhi budget mein mil jaata hai. [B-ROLL: bali beach resort]
+Number ek - Thailand, jaha tumhara poora din ka kharcha ek Mumbai ki Uber ride se bhi kam hai. [B-ROLL: thailand tuk tuk]
+Ab batao, kaunsa desh sabse pehle try karoge - comment karo, part 2 chahiye? - Fakira.
+===END===
+
+===TYPE: SHORT3===
+TITLE:
+1. Thailand Mein Yeh Galti Mat Karna Warna... #Shorts
+
+DESCRIPTION:
+Mere dost ke saath jo hua, tumhare saath na ho. Fakira Musafir.
+
+TAGS:
+thailand scam, travel safety, fakira musafir, budget travel, indian traveler, travel mistakes, shorts india, thailand tips, scam alert, save this video
+
+THUMBNAIL_TEXT:
+YE GALTI MAT KARNA
+
+THUMBNAIL_PROMPT:
+Worried Indian tourist holding empty wallet at a Thailand tuk tuk stand, warning sign overlay, dramatic red and black color grading, shorts thumbnail style
+
+SCRIPT:
+Thailand mein ye galti mat karna, warna poora budget udd jaayega. [B-ROLL: tuk tuk street scam] [ON-SCREEN TEXT: SCAM ALERT]
+Mere ek dost ke saath hua - airport ke bahar wale tuk tuk wale ne usse teen guna kiraya le liya. [B-ROLL: airport taxi stand]
+Hamesha Grab app use karo, aur kabhi bhi meter ke bina taxi mat lo. [B-ROLL: grab app phone screen] [ON-SCREEN TEXT: GRAB APP USE KARO]
+Yeh ek choti si baat tumhara pura budget bacha sakti hai guys. [B-ROLL: happy traveler smiling]
+Part 2 chahiye? Comment karo - Fakira.
+===END===

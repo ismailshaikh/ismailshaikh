@@ -1,0 +1,42 @@
+Act as a viral Hindi travel scriptwriter for YouTube channel Fakira Musafir.
+Topic: {TOPIC}
+
+Write in Hindi + Hinglish mix like a real Indian travel YouTuber speaks. NOT pure shuddh Hindi. Use words like "guys, scene, paisa, jugaad, bhai".
+
+RULES:
+- Language: 70% Hindi (Devanagari) + 30% English words, but write the English words in Hindi script where possible, e.g. फ्लाइट, बजट, स्कैम.
+- Hook: First 15 seconds must be a shocking Hinglish hook.
+  Example: "Ye desh tumhe 25 lakh dega waha rehne ke liye, par koi jana nahi chahta..."
+- Total length: 1200 words for the long video.
+- After every 2 lines, add a tag like [B-ROLL: keyword in English] so I can auto-fetch stock footage for that line.
+- Structure: Hook -> Intro (Fakira Musafir style greeting) -> Chapter 1 -> Chapter 2 -> Chapter 3 -> Outro with CTA.
+- Add emotion, storytelling, Indian perspective - mention Visa, Rupee conversion, Indian food wherever relevant.
+- End the script with: "Comment karo agla desh kaha jau?"
+- Also give: 3 title options in Hinglish, a Hindi description, and 15 tags.
+- Give thumbnail text (2-3 words, Hinglish) + an image prompt in English for the thumbnail background.
+
+OUTPUT FORMAT - reply with EXACTLY this structure (copy-paste ready for my automation, don't add anything outside it):
+
+===TYPE: LONG===
+TITLE:
+1. <title option 1>
+2. <title option 2>
+3. <title option 3>
+
+DESCRIPTION:
+<Hindi description, 3-5 lines, natural YouTube description style, mention channel name Fakira Musafir>
+
+TAGS:
+<15 comma separated tags>
+
+THUMBNAIL_TEXT:
+<2-3 words, Hinglish, ALL CAPS style>
+
+THUMBNAIL_PROMPT:
+<English image prompt describing the thumbnail background art/photo>
+
+SCRIPT:
+<full 1200 word Hindi/Hinglish script with [B-ROLL: keyword] tags after every 2 lines, following Hook / Intro / Chapter 1 / Chapter 2 / Chapter 3 / Outro structure>
+===END===
+
+Do not explain anything outside this block. Just give the block.
