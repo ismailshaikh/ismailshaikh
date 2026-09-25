@@ -63,9 +63,46 @@ cp .env.example .env
 
 ---
 
+## Trending Topics Finder (`trend_finder.py`)
+
+`topics.csv` ek fixed starter list hai. Roz fresh/trending topic chahiye
+to `trend_finder.py` chalao - yeh **4 free sources** se ek saath data
+khींchta hai, sabko normalize karke duplicates hata deta hai (chahe alag
+source se aaya ho), aur jo tumhare `topics.csv`/`topics_shorts.csv` me
+already hai use skip kar deta hai:
+
+```bash
+python trend_finder.py                    # print + trending_topics.csv bana dega
+python trend_finder.py --append-to-topics  # top results ko topics.csv me bhi add kar dega
+python trend_finder.py --top 15            # sirf top 15 chahiye
+```
+
+**Automated sources (script khud fetch karta hai, sab FREE):**
+1. YouTube Data API v3 search (`YOUTUBE_API_KEY` chahiye - free API key,
+   `.env.example` me steps hai) - last 7 din ke real videos, view velocity se score
+2. Google Trends rising queries (pytrends, koi key nahi chahiye)
+3. YouTube search autosuggest (koi key nahi chahiye)
+4. Reddit hot posts - r/IndiaTravel, r/india, r/travel, r/backpacking, r/solotravel (koi key nahi chahiye)
+
+**Manual-only sources (koi free script-able API nahi hai, isliye khud check karo, weekly):**
+- **YouTube Studio -> Research tab** - sabse accurate, sirf Studio UI me milta hai
+- **TubeBuddy free tier** - browser extension, script se access nahi ho sakta
+- **Social Blade** - free API nahi deta
+- **Quora** - public API nahi hai
+- **vidIQ deep search** (outliers/breakout/rising) - yeh sirf Claude ke andar MCP
+  tool ke through chalta hai, credit-based hai (150/month free tier), plain
+  Python script se call nahi ho sakta. Jab bhi chahiye ho, seedha Claude se bolo
+  "trending topics dhundo" - wahi live pull kar dega.
+
+Ek acha rhythm: **weekly `trend_finder.py --append-to-topics` chalao +
+mahine me 1-2 baar Claude se vidIQ deep-check maang lo** for the breakout
+signal that a plain script can't compute.
+
+---
+
 ## Daily workflow - LONG VIDEO
 
-1. `topics.csv` se aaj ka topic uthao.
+1. `topics.csv` se aaj ka topic uthao (ya `trend_finder.py` se fresh trending topic).
 2. `prompts/claude_pro_script_prompt.txt` open karo, `{TOPIC}` ko apne
    topic se replace karo, poora prompt Claude Pro me paste karo.
 3. Claude Pro ka jo output aaye, use **as-is** copy karke

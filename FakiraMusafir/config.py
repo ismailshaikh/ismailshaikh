@@ -49,6 +49,31 @@ YOUTUBE_TOKEN_FILE = os.getenv("YOUTUBE_TOKEN_FILE", str(CREDENTIALS_DIR / "toke
 YOUTUBE_CATEGORY_TRAVEL = "19"
 YOUTUBE_DEFAULT_LANGUAGE = "hi"
 
+# Simple API key (no OAuth) for read-only Data API v3 calls (search/videos.list).
+# Google Cloud Console -> APIs & Services -> Credentials -> Create API Key ->
+# restrict it to "YouTube Data API v3". Free, separate from the OAuth client
+# used by setup_youtube_auth.py/uploader.py.
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "")
+
+# ---- trend_finder.py (all FREE sources) ----
+TREND_SEED_KEYWORDS = [
+    "budget travel india",
+    "visa free countries for indians",
+    "cheap countries to visit from india",
+    "thailand trip budget",
+    "bali trip budget",
+    "vietnam backpacking india",
+    "dubai budget trip",
+    "nepal trip budget",
+    "sri lanka trip budget",
+    "travel scam india",
+    "hidden places india",
+    "solo travel india",
+]
+REDDIT_SUBREDDITS = ["IndiaTravel", "india", "travel", "backpacking", "solotravel"]
+TREND_OUTPUT_FILE = ROOT / "trending_topics.csv"
+TREND_DEDUP_THRESHOLD = 0.55  # token-overlap ratio above which two topics are treated as duplicates
+
 # ---- voices (edge-tts, FREE, no API key) ----
 VOICE_LONG_MALE = "hi-IN-MadhurNeural"
 VOICE_SHORT_FEMALE = "hi-IN-SwaraNeural"

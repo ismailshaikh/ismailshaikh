@@ -8,3 +8,4 @@ Pillow
 python-dotenv
 numpy
 imageio-ffmpeg
+pytrends

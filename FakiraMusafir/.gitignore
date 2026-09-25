@@ -12,6 +12,9 @@ final/reels/*.mp4
 thumbnails/*.png
 !**/.gitkeep
 
+# trend_finder.py output (regenerated each run)
+trending_topics.csv
+
 # python
 __pycache__/
 *.pyc
