@@ -1,48 +1,53 @@
-SAMPLE / TEST INPUT - Topic: "Thailand Trip Under 30000"
-Generated using /prompts/claude_pro_script_prompt.txt and /prompts/shorts_factory_prompt.txt
+LIVE INPUT - Topic: "Tirupati Balaji 2-Day Perfect Budget Itinerary"
+(trending-topic research se aaya, TripVibes India ke 71.9L-view video se adapted)
 Replace this file daily with fresh Claude Pro output. Keep the ===TYPE=== / ===END=== format.
 
 ===TYPE: LONG===
 TITLE:
-1. Thailand Sirf ₹30,000 Mein?! Yeh Jugaad Kisi Ne Nahi Bataya
-2. Full Thailand Trip Under 30K - Flight, Hotel, Food Sab Kuch
-3. Indians Ke Liye Sabse Sasta Videsh - Thailand Budget Guide
+1. Tirupati Balaji Sirf ₹3000 Mein! 2 Din Ka Perfect Budget Trip
+2. Tirupati Ka Yeh Jugaad Kisi Ne Nahi Bataya - Full Budget Guide
+3. 90% Log Tirupati Mein Yeh Galti Karte Hain - Bachke Rehna
 
 DESCRIPTION:
-Guys, is video mein maine bataya hai poora Thailand trip sirf ₹30,000 mein kaise plan karein - flight se lekar street food tak, har jugaad cover kiya hai. Agar tum bhi apni first international trip plan kar rahe ho, yeh video end tak dekho. Fakira Musafir pe aise hi budget videsh yatra ke video aate rehte hain, channel ko subscribe karna mat bhoolna.
+Guys, Tirupati Balaji darshan ke liye sirf itna budget chahiye jitna tumhe pata nahi hoga. Is video mein maine bataya hai flight/train se lekar darshan tak ka poora plan, aur woh galti jo 90% log karte hain aur pura trip kharab kar dete hain. Fakira Musafir pe aise hi budget yatra guide aate rehte hain, channel subscribe karna mat bhoolna.
 
 TAGS:
-thailand trip budget, thailand under 30000, cheap thailand tour, visa free countries for indians, budget travel india, fakira musafir, thailand for indians, bangkok budget guide, cheapest international trip, indian traveler, solo travel india, videsh yatra, thailand visa on arrival, backpacking asia, budget bangkok pattaya
+tirupati balaji budget trip, tirupati darshan guide, budget pilgrimage india, fakira musafir, tirupati itinerary, cheap temple trip, tirumala darshan booking, budget yatra india, hindu pilgrimage guide, tirupati mistakes, srivari seva booking, tirupati 2 day trip, spiritual travel india, indian traveler, darshan ticket booking
 
 THUMBNAIL_TEXT:
-THAILAND ₹30,000!
+TIRUPATI ₹3000!
 
 THUMBNAIL_PROMPT:
-A young Indian backpacker with a small bag standing on a Thailand beach at golden hour, Bangkok skyline silhouette in background, bold contrast, vibrant orange and teal colors, YouTube thumbnail style, dramatic lighting
+Tirupati Balaji temple gopuram at golden hour with a young Indian pilgrim in the foreground looking amazed, dramatic warm lighting, bold contrast, YouTube thumbnail style
 
 SCRIPT:
-Guys, ek jagah hai jaha tumhara pura Europe trip ka budget nahi, sirf tumhare ek mahine ki salary lagti hai, aur log wahan se lautte hi nahi chahte. [B-ROLL: thailand beach aerial]
-Naam hai Thailand, aur aaj main tumhe dikhaunga poora trip sirf tees hazaar rupaye mein. [B-ROLL: bangkok skyline]
+[HOOK] Guys, ek jagah hai jaha crore log saal mein jaate hain, aur unme se 90% log ek choti si galti kar ke apna pura din barbaad kar dete hain. [B-ROLL: tirupati temple aerial]
+Naam hai Tirupati Balaji, aur aaj main tumhe dikhaunga sirf teen hazaar rupaye mein pura 2 din ka trip kaise plan karein. [B-ROLL: tirumala hills]
 
-Kya scene hai bhai, Fakira Musafir mein tumhara swagat hai. Main hoon tumhara desi traveler dost, aur aaj ka topic hai - budget Thailand. [B-ROLL: indian traveler vlogging]
-Video ke end tak rukna, kyunki main flight, hotel aur khane tak ka pura hisaab dene wala hoon. [B-ROLL: travel planning notebook]
+Kya scene hai bhai, Fakira Musafir mein tumhara swagat hai. Main hoon tumhara desi traveler dost, aur aaj ka topic hai - Tirupati budget yatra. [B-ROLL: indian traveler vlogging]
+Video ke end tak rukna, kyunki main woh galti bhi bataunga jo darshan line mein ghanto barbaad kar deti hai. [B-ROLL: pilgrims queue]
 
-Chapter ek - Flight aur Visa. [B-ROLL: airport departure board]
-Delhi ya Mumbai se Bangkok ki direct flight agar tum do teen mahine pehle book karo, to round trip sirf aath se dus hazaar mein mil jaati hai. [B-ROLL: airplane window view]
-Aur best part - Thailand ka visa on arrival hai Indians ke liye, matlab embassy ke chakkar nahi lagane padte. [B-ROLL: passport stamp]
+Chapter ek - Wahan Pahunchna. [B-ROLL: railway station south india]
+Chennai ya Bangalore se Tirupati train sirf do se teen sau rupaye mein mil jaati hai, aur agar time bachana hai to APSRTC ki bus bhi sasti padti hai. [B-ROLL: bus south india]
+Tirupati station se Tirumala tak free bus chalti hai TTD ki taraf se - yeh baat bahut kam logo ko pata hai. [B-ROLL: hill road bus]
 
-Chapter do - Rehna aur ghoomna. [B-ROLL: budget hostel room]
-Bangkok mein ek achha hostel tumhe pandrah se do sau rupaye prati raat mein mil jaayega, aur agar Pattaya ya Phuket jaana hai to local bus bahut sasti padti hai. [B-ROLL: local bus thailand]
-Grab app se scooter rent karke poora sheher ghoomna sabse sasta jugaad hai. [B-ROLL: scooter rental street]
+Chapter do - Rehna aur Darshan. [B-ROLL: budget guest house]
+TTD ke choultries mein sirf pachaas se do sau rupaye mein achha kamra mil jaata hai, aur khana bhi wahi free ya bahut sasta milta hai. [B-ROLL: temple free food]
+Darshan ke liye online Srivari Seva ticket book karo kam se kam ek mahina pehle - yeh free hai aur line se bacha leta hai. [B-ROLL: online booking phone]
 
-Chapter teen - Khana aur paisa bachana. [B-ROLL: street food night market]
-Street food yahan sirf saath se dus rupaye mein mil jaata hai, aur agar Indian khana miss ho raha hai to Bangkok mein Indian restaurants bhi har gali mein hain. [B-ROLL: indian restaurant abroad]
-Currency exchange hamesha airport ke bahar city mein karo, wahan rate zyada accha milta hai. [B-ROLL: currency exchange counter]
+[REHOOK] Par yahi pe ek badi galti hoti hai jo 90% log karte hain, aur main nahi chahta tumhare saath ho. [B-ROLL: confused tourist]
 
-To total mila ke - flight das hazaar, rehna saat hazaar, khana aur ghoomna teraah hazaar - poora hisaab tees hazaar ke andar. [B-ROLL: budget calculator money]
-Agar tumhe first international trip plan karni hai to Thailand se behtar koi shuruaat nahi hai guys. [B-ROLL: sunset thailand temple]
+Chapter teen - Woh Galti Aur Bachne Ka Tarika. [B-ROLL: warning sign]
+Log bina booking ke pahunch jaate hain aur samajhte hain ki special entry darshan Rs three hundred mein turant mil jayega - lekin peak season mein yeh slots mahino pehle khatam ho jaate hain. [B-ROLL: crowded temple gate]
+Isse bachne ka tarika - TTD ki official website pe hi booking karo, kisi bhi agent ya bahar wale se mat lo, warna double paisa lagega. [B-ROLL: official website screen]
+Aur ek chhoti si tip - Tuesday aur Friday ko crowd sabse kam hota hai, agar flexible ho to yeh din choose karo. [B-ROLL: empty temple courtyard]
 
-Comment karo agla desh kaha jau?
+[REHOOK] Ab tum sochoge itna sasta trip kaise possible hai - chalo pura hisaab dekh lete hain. [B-ROLL: budget calculator]
+
+Train ya bus - teen sau, rehna - do sau, khana - free ya sau rupaye, aur darshan ticket - free se teen sau. Total mila ke poora trip do se teen hazaar rupaye ke andar ho jaata hai. [B-ROLL: money rupees]
+Agar tumhe apni first spiritual trip plan karni hai to Tirupati se behtar shuruaat nahi ho sakti guys. [B-ROLL: sunset temple silhouette]
+
+Comment karo agla mandir kaunsa dikhau?
 ===END===
 
 ===TYPE: SHORT1===
