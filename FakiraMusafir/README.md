@@ -23,11 +23,13 @@ FakiraMusafir/
     long/                          <- finished 16:9 long video
     shorts/                        <- finished 9:16 Shorts + metadata.json
     reels/                         <- copy of shorts + cover images + upload_ready.txt
-  thumbnails/                      <- generated thumbnails + reel covers
+  thumbnails/                      <- thumbnail_brief.py *_brief.txt + your Canva exports (long.png, short1_cover.png, ...)
   assets/music/                    <- put free background music mp3s here
   .credentials/                    <- YouTube OAuth client_secret.json + token.json (gitignored)
   config.py, script_parser.py      <- shared config & manual_input.txt parser
-  voiceover.py, downloader.py, builder.py, thumbnail.py
+  voiceover.py, downloader.py, builder.py
+  thumbnail_brief.py               <- Canva brief generator (default thumbnail workflow)
+  thumbnail.py                     <- PIL auto-thumbnail (optional fallback, --auto-thumbnail)
   uploader.py, setup_youtube_auth.py
   shorts_builder.py, caption_generator.py, uploader_shorts.py
   main.py                          <- orchestrator
@@ -100,6 +102,35 @@ signal that a plain script can't compute.
 
 ---
 
+## Thumbnails - Canva Pro workflow (default)
+
+Tumhare paas Canva Pro hai aur design tum khud karna chahte ho, isliye
+default workflow ab **brief-based** hai - PIL koi auto-image nahi banata,
+sirf ek text brief deta hai jo tum Canva me copy-paste karo:
+
+1. `python main.py --mode long` (ya `shorts-only`/`long+shorts`) chalane
+   par ye automatically likh deta hai:
+   - `thumbnails/long_brief.txt` (16:9, 1280x720) - long video ke liye
+   - `thumbnails/short1_brief.txt`, `short2_brief.txt`, `short3_brief.txt` (9:16, 1080x1920) - shorts/reels ke liye
+2. Brief file me hoga: exact canvas size, bada headline text, background
+   image idea (Canva stock search / Magic Media prompt), color/style
+   notes, aur exact export path.
+3. Canva Pro me design karo, PNG export karo **exactly** us path pe jo
+   brief file ke "EXPORT AS" line me likha hai (e.g. `thumbnails/long.png`,
+   `thumbnails/short1_cover.png`).
+4. Upload chalne se pehle wo file ban jaani chahiye - `uploader.py` /
+   `uploader_shorts.py` usi path se pick kar lenge automatically.
+
+**Busy din ho aur Canva ka time na ho?** `--auto-thumbnail` flag lagao -
+tab `thumbnail.py` (PIL) instant fallback image bana dega us path pe, aur
+next run me agar Canva se manually export kar diya to wahi use hoga
+(auto-thumbnail sirf tab chalta hai jab file already exist nahi karti):
+```bash
+python main.py --mode long --auto-thumbnail
+```
+
+---
+
 ## Daily workflow - LONG VIDEO
 
 1. `topics.csv` se aaj ka topic uthao (ya `trend_finder.py` se fresh trending topic).
@@ -113,12 +144,15 @@ signal that a plain script can't compute.
    python main.py --mode long
    ```
    Yeh voiceover banayega, footage download karega, video edit karega
-   (captions + music + Ken Burns), thumbnail banayega.
-5. Video check karo `final/long/long_16x9.mp4` me. Agar sahi lage:
+   (captions + music + Ken Burns), aur `thumbnails/long_brief.txt` likh dega.
+5. Video check karo `final/long/long_16x9.mp4` me. Canva me thumbnail
+   design karo (brief follow karo), `thumbnails/long.png` pe export karo.
+6. Sab ready ho to:
    ```bash
    python main.py --mode long --upload
    ```
-   Yeh YouTube pe 6 PM IST ke liye schedule kar dega.
+   Yeh YouTube pe 6 PM IST ke liye schedule kar dega (thumbnail bhi set
+   ho jayega agar `thumbnails/long.png` mil gaya).
 
 ## Daily workflow - SHORTS + REELS
 
@@ -138,17 +172,19 @@ signal that a plain script can't compute.
 5. Output:
    - `final/shorts/short1_9x16.mp4`, `short2_9x16.mp4`, `short3_9x16.mp4`
    - `final/shorts/metadata.json` (titles, descriptions, hashtags)
-   - `final/reels/` - same videos + cover images + `upload_ready.txt`
-     (Instagram caption copy-paste ready)
-6. Upload Shorts to YouTube:
+   - `thumbnails/short1_brief.txt` / `short2_brief.txt` / `short3_brief.txt` (9:16 Canva briefs)
+   - `final/reels/` - same videos + `upload_ready.txt` (Instagram caption copy-paste ready)
+6. Canva me har short ka cover design karo, `thumbnails/short1_cover.png`
+   (etc.) pe export karo.
+7. Upload Shorts to YouTube:
    ```bash
    python main.py --mode shorts-only --upload
    ```
    (schedules at 11 AM / 3 PM / 8 PM IST)
-7. Upload Reels to Instagram **manually** (Phase 1 - free): open
+8. Upload Reels to Instagram **manually** (Phase 1 - free): open
    `final/reels/upload_ready.txt`, copy the caption, upload the video +
-   cover from the Instagram app. Phase 2 me yeh bhi automate ho jayega
-   (`PHASE2_UPGRADE.md` dekho).
+   apna Canva cover from the Instagram app. Phase 2 me yeh bhi automate
+   ho jayega (`PHASE2_UPGRADE.md` dekho).
 
 ---
 
@@ -201,7 +237,9 @@ ek ke baad ek, rakh sakte ho.
 ```bash
 python voiceover.py --type LONG
 python downloader.py --type LONG
-python thumbnail.py --type LONG
+python thumbnail_brief.py --type LONG          # writes the Canva brief (16:9)
+python thumbnail_brief.py --type SHORT1 --cover  # writes the Canva brief (9:16)
+python thumbnail.py --type LONG                # optional PIL fallback image
 python uploader.py --type LONG --video final/long/long_16x9.mp4 --thumbnail thumbnails/long.png
 
 python shorts_builder.py --long-video-url https://youtu.be/xxxx
