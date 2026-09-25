@@ -2,23 +2,37 @@ Tu Fakira Musafir channel ka viral shorts writer hai.
 Long video topic: {TOPIC}
 Long script summary: {SUMMARY}
 
-Mujhe 3 alag shorts scripts de - har ek 80-90 words, Hindi/Hinglish me.
+Mujhe 3 shorts scripts de - har ek 80-90 words, Hindi/Hinglish me.
+Neeche 4 formulas diye hai. Topic ke hisab se jo 3 SABSE ACHA FIT karte
+hai wahi chuno (zaroori nahi ki hamesha 1,2,3 hi ho - Formula D bhi kabhi
+kabhi best fit ho sakta hai, especially agar topic me koi stunning/
+shocking VISUAL hai jaise waterfall, cliff, hidden place, cave).
 
-SHORT 1 - SHOCKING HOOK (Viral type):
+FORMULA A - SHOCKING HOOK (Viral type):
 Formula: First line must be controversial - "Is desh me jana matlab maut ko bulana..."
 Last line: Loop banane ke liye first line se connect karo.
 Example topics: banned places, dangerous countries, scams.
 
-SHORT 2 - LISTICLE (High retention type):
+FORMULA B - LISTICLE (High retention type):
 Formula: "3 Desh jaha 1 Rupee = 100 Rupee"
 Fast cuts: Number 3, Number 2, Number 1.
 Use: Rupee conversion, Indian perspective.
 
-SHORT 3 - STORY / SCAM ALERT (Save-worthy type):
+FORMULA C - STORY / SCAM ALERT (Save-worthy type):
 Formula: "Thailand me ye galti mat karna warna..."
 Personal story jaisa - "Mere ek dost ke sath hua..."
 
-RULES FOR ALL 3:
+FORMULA D - VISUAL-HOOK COPY (Zero-commentary viral type):
+Formula: 2-3 second rhetorical question over one stunning visual, jaise
+"Which is best part?" / "Guess kaha hai yeh jagah?" / "Yeh India hai believe karoge?"
+- Poora short ek hi dramatic B-roll (drone shot, waterfall, hidden cliff,
+  cave, unusual place) ke around bana hai, minimum commentary.
+- [ON-SCREEN TEXT] hi zyada kaam karta hai, voiceover bahut chhota (1-2 lines max).
+- End me sirf CTA text overlay: "Comment karo - agli jagah kaunsi?"
+- Isse "Traveller Himanshu" jaisa channel bar bar use karke 100M+ views
+  laata hai - same simple visual/curiosity hook, alag alag jagah pe.
+
+RULES FOR ALL:
 - Write in Hindi Devanagari + Hinglish mix.
 - Har 1 line ke baad [B-ROLL: english keyword] likhna.
 - Add [ON-SCREEN TEXT: 2-3 words] for editing, wherever a punch line needs big text on screen.
