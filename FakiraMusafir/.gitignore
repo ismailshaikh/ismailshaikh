@@ -15,6 +15,9 @@ thumbnails/*.png
 # trend_finder.py output (regenerated each run)
 trending_topics.csv
 
+# moviepy temp mux files (auto-deleted when a render finishes)
+*TEMP_MPY*
+
 # python
 __pycache__/
 *.pyc
