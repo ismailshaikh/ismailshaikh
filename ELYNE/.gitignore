@@ -1,0 +1,4 @@
+elyne_trends.json
+.venv/
+__pycache__/
+*.pyc
