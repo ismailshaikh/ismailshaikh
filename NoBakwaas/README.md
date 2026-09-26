@@ -6,18 +6,42 @@ from FREE sources.
 
 ## How it's meant to be used
 
-**Just ask Claude in chat**: "design trends do" / "NoBakwaas trend research karo".
-Claude re-runs the same free lookups live and gives you a fresh set of
-ideas (and updates the linked Notion page) - no schedule, no cron,
-only when you ask.
-
-You can also run it yourself:
+**One command, same pattern as FakiraMusafir** - no n8n, no scheduler:
 ```bash
 cd NoBakwaas
 pip install -r requirements.txt
-python design_trend_finder.py --top 10
+python main.py
 ```
-Saves results to `design_trends.json` and prints a summary.
+This researches trends from the free sources below AND pushes a fresh
+report into your Notion page. Or just ask Claude in chat: "design
+trends do" - it runs this same pipeline live.
+
+Flags:
+```bash
+python main.py --top 15        # more items per category
+python main.py --no-notion     # just save design_trends.json locally, skip Notion
+```
+
+## One-time setup - Notion
+
+1. Go to **notion.so/my-integrations** -> "New integration" -> name it
+   (e.g. "NoBakwaas Trends") -> copy the **Internal Integration Token**
+   (starts with `secret_` or `ntn_`)
+2. Open your target Notion page in the browser -> "..." menu (top
+   right) -> **Connections** -> add the integration you just created
+3. Copy the **page ID** from the page's URL - it's the 32-character
+   string right before any `?` in the URL, e.g.
+   `notion.so/My-Page-3e7e55f3de1c812d903bf4d2a3a07523` -> ID is
+   `3e7e55f3de1c812d903bf4d2a3a07523`
+4. Add both as environment variables (same way you added the Pexels/
+   Pixabay/YouTube keys for FakiraMusafir - session settings -> Edit ->
+   Environment Variables, or in a local `.env` file, never paste real
+   values into `.env.example`):
+   - `NOTION_API_KEY`
+   - `NOTION_PAGE_ID`
+
+That's it - every `python main.py` run appends a fresh, timestamped
+trend report to that page.
 
 ## Sources (all free, no API key needed)
 
