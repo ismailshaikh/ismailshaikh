@@ -54,21 +54,23 @@ Trends or Instagram Explore by hand instead.
 
 ## One-time setup - Notion
 
-1. Go to **notion.so/my-integrations** -> "New integration" -> name it
-   (e.g. "ELYNE Trends") -> copy the **Internal Integration Token**
-2. Open your target Notion page -> "..." menu -> **Connections** ->
-   add the integration
-3. Copy the **page ID** from the page's URL (32-char string before
-   any `?`)
-4. Add both as environment variables (same way as the other keys in
-   this repo - session settings -> Edit -> Environment Variables, or
-   a local `.env` file; never paste real values into `.env.example`):
-   - `NOTION_API_KEY`
-   - `NOTION_PAGE_ID`
+`NOTION_API_KEY` is shared with `NoBakwaas/` (one integration, two
+pages) - if you've already done this step for NoBakwaas, skip straight
+to step 3 and just add `ELYNE_NOTION_PAGE_ID`.
 
-You can reuse the SAME Notion page/integration as NoBakwaas if you
-want everything in one place, or create a separate ELYNE-only page -
-either works, just point `NOTION_PAGE_ID` at whichever you choose.
+1. Go to **notion.so/my-integrations** -> "New integration" -> name it
+   (e.g. "Ismail's Agents") -> copy the **Internal Integration Token**
+   - this is `NOTION_API_KEY`
+2. Open the **"ELYNE Content Calendar"** page (already created -
+   https://app.notion.com/p/3e7e55f3de1c8135b870cc7eacb86d26) -> "..."
+   menu -> **Connections** -> add the integration. (Using a different
+   page instead? Copy its 32-character page ID from its URL.)
+3. Add as environment variables (same way as the other keys in this
+   repo - session settings -> Edit -> Environment Variables, or a
+   local `.env` file; never paste real values into `.env.example`),
+   then start a NEW session for them to take effect:
+   - `NOTION_API_KEY`
+   - `ELYNE_NOTION_PAGE_ID` = `3e7e55f3de1c8135b870cc7eacb86d26`
 
 ## Notes
 

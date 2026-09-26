@@ -8,4 +8,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 NOTION_API_KEY = os.getenv("NOTION_API_KEY", "")
-NOTION_PAGE_ID = os.getenv("NOTION_PAGE_ID", "")
+# Business-specific page ID (not the shared NOTION_PAGE_ID name) so
+# NoBakwaas and ELYNE can't accidentally write into the same page.
+NOTION_PAGE_ID = os.getenv("NOBAKWAAS_NOTION_PAGE_ID", "")

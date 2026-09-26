@@ -24,21 +24,25 @@ python main.py --no-notion     # just save design_trends.json locally, skip Noti
 
 ## One-time setup - Notion
 
+`NOTION_API_KEY` is shared with `ELYNE/` (one integration, two pages) -
+if you've already done this step for ELYNE, skip straight to step 4
+and just add `NOBAKWAAS_NOTION_PAGE_ID`.
+
 1. Go to **notion.so/my-integrations** -> "New integration" -> name it
-   (e.g. "NoBakwaas Trends") -> copy the **Internal Integration Token**
-   (starts with `secret_` or `ntn_`)
-2. Open your target Notion page in the browser -> "..." menu (top
-   right) -> **Connections** -> add the integration you just created
-3. Copy the **page ID** from the page's URL - it's the 32-character
-   string right before any `?` in the URL, e.g.
-   `notion.so/My-Page-3e7e55f3de1c812d903bf4d2a3a07523` -> ID is
-   `3e7e55f3de1c812d903bf4d2a3a07523`
-4. Add both as environment variables (same way you added the Pexels/
+   (e.g. "Ismail's Agents") -> copy the **Internal Integration Token**
+   (starts with `secret_` or `ntn_`) - this is `NOTION_API_KEY`
+2. Open the **"NoBakwaas Design Trends"** page (already created -
+   https://app.notion.com/p/3e7e55f3de1c812d903bf4d2a3a07523) -> "..."
+   menu (top right) -> **Connections** -> add the integration you just
+   created. (Using a different page instead? Copy its 32-character
+   page ID from its URL.)
+3. Add as environment variables (same way you added the Pexels/
    Pixabay/YouTube keys for FakiraMusafir - session settings -> Edit ->
    Environment Variables, or in a local `.env` file, never paste real
-   values into `.env.example`):
+   values into `.env.example`), then start a NEW session for them to
+   take effect:
    - `NOTION_API_KEY`
-   - `NOTION_PAGE_ID`
+   - `NOBAKWAAS_NOTION_PAGE_ID` = `3e7e55f3de1c812d903bf4d2a3a07523`
 
 That's it - every `python main.py` run appends a fresh, timestamped
 trend report to that page.
