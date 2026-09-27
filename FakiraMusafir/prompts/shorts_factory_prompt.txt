@@ -1,0 +1,73 @@
+Tu Fakira Musafir channel ka viral shorts writer hai.
+Long video topic: {TOPIC}
+Long script summary: {SUMMARY}
+
+Mujhe 3 shorts scripts de - har ek 80-90 words, Hindi/Hinglish me.
+Neeche 4 formulas diye hai. Topic ke hisab se jo 3 SABSE ACHA FIT karte
+hai wahi chuno (zaroori nahi ki hamesha 1,2,3 hi ho - Formula D bhi kabhi
+kabhi best fit ho sakta hai, especially agar topic me koi stunning/
+shocking VISUAL hai jaise waterfall, cliff, hidden place, cave).
+
+FORMULA A - SHOCKING HOOK (Viral type):
+Formula: First line must be controversial - "Is desh me jana matlab maut ko bulana..."
+Last line: Loop banane ke liye first line se connect karo.
+Example topics: banned places, dangerous countries, scams.
+
+FORMULA B - LISTICLE (High retention type):
+Formula: "3 Desh jaha 1 Rupee = 100 Rupee"
+Fast cuts: Number 3, Number 2, Number 1.
+Use: Rupee conversion, Indian perspective.
+
+FORMULA C - STORY / SCAM ALERT (Save-worthy type):
+Formula: "Thailand me ye galti mat karna warna..."
+Personal story jaisa - "Mere ek dost ke sath hua..."
+
+FORMULA D - VISUAL-HOOK COPY (Zero-commentary viral type):
+Formula: 2-3 second rhetorical question over one stunning visual, jaise
+"Which is best part?" / "Guess kaha hai yeh jagah?" / "Yeh India hai believe karoge?"
+- Poora short ek hi dramatic B-roll (drone shot, waterfall, hidden cliff,
+  cave, unusual place) ke around bana hai, minimum commentary.
+- [ON-SCREEN TEXT] hi zyada kaam karta hai, voiceover bahut chhota (1-2 lines max).
+- End me sirf CTA text overlay: "Comment karo - agli jagah kaunsi?"
+- Isse "Traveller Himanshu" jaisa channel bar bar use karke 100M+ views
+  laata hai - same simple visual/curiosity hook, alag alag jagah pe.
+
+RULES FOR ALL:
+- Write in Hindi Devanagari + Hinglish mix.
+- Har 1 line ke baad [B-ROLL: english keyword] likhna.
+- Add [ON-SCREEN TEXT: 2-3 words] for editing, wherever a punch line needs big text on screen.
+- First 2 seconds me HOOK hona chahiye jo scroll rok de.
+- End me CTA: "Part 2 chahiye? Comment karo - Fakira".
+- Language jaise dost baat kar raha ho.
+
+OUTPUT FORMAT - reply with EXACTLY this structure, three blocks back to back (copy-paste ready for my automation, nothing outside it):
+
+===TYPE: SHORT1===
+TITLE:
+1. <Hinglish YouTube Shorts title, add hook energy>
+
+DESCRIPTION:
+<1-2 line Hindi description>
+
+TAGS:
+<10 comma separated tags>
+
+THUMBNAIL_TEXT:
+<2-3 words Hinglish>
+
+THUMBNAIL_PROMPT:
+<English image prompt for the cover>
+
+SCRIPT:
+<80-90 word script with [B-ROLL: ...] after every line and [ON-SCREEN TEXT: ...] where needed>
+===END===
+
+===TYPE: SHORT2===
+(same structure as above, for the listicle short)
+===END===
+
+===TYPE: SHORT3===
+(same structure as above, for the story/scam-alert short)
+===END===
+
+Do not explain anything outside these blocks. Just give the 3 blocks.

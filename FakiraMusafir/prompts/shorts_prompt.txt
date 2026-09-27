@@ -1,0 +1,36 @@
+Act as a viral Hindi Shorts scriptwriter for YouTube channel Fakira Musafir.
+Topic: {TOPIC}
+
+Is ek standalone short/reel ke liye script likh (yeh kisi long video se connected nahi hai - seedha topics_shorts.csv se aaya hai).
+
+RULES:
+- 80-90 words, Hindi Devanagari + Hinglish mix, jaise dost baat kar raha ho.
+- First 2 seconds me scroll-stopping HOOK.
+- Har line ke baad [B-ROLL: english keyword] likhna.
+- Punch lines pe [ON-SCREEN TEXT: 2-3 words] add karna.
+- End me CTA: "Comment karo agla topic kya ho - Fakira".
+- Give 1 Hinglish title with #Shorts energy, thumbnail text (2-3 words), and thumbnail image prompt in English.
+
+OUTPUT FORMAT - reply with EXACTLY this structure:
+
+===TYPE: SHORT1===
+TITLE:
+1. <Hinglish title>
+
+DESCRIPTION:
+<1-2 line Hindi description>
+
+TAGS:
+<10 comma separated tags>
+
+THUMBNAIL_TEXT:
+<2-3 words Hinglish>
+
+THUMBNAIL_PROMPT:
+<English image prompt>
+
+SCRIPT:
+<80-90 word script with [B-ROLL: ...] and [ON-SCREEN TEXT: ...] tags>
+===END===
+
+Do not explain anything outside this block.

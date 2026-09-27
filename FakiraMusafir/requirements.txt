@@ -1,0 +1,11 @@
+edge-tts
+moviepy==1.0.3
+faster-whisper
+google-api-python-client
+google-auth-oauthlib
+requests
+Pillow==9.5.0
+python-dotenv
+numpy
+imageio-ffmpeg
+pytrends

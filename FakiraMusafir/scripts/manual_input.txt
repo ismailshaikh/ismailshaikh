@@ -1,0 +1,140 @@
+LIVE INPUT - Topic: "Top 10 Places to Visit in India in November"
+Written directly by Claude for Fakira Musafir (no Claude Pro pass needed this time).
+Replace this file daily with fresh output. Keep the ===TYPE=== / ===END=== format.
+
+===TYPE: LONG===
+TITLE:
+1. November Mein Ghumne Ki Top 10 Jagah - Budget Guide
+2. Yeh 10 Jagah November Mein Sabse Zyada Khoobsurat Hoti Hain
+3. India Ki Top 10 November Trip - Number 10 Sabko Chaunka Dega
+
+DESCRIPTION:
+Guys, November India ghumne ka best mahina hai - na zyada garmi, na zyada thand. Is video mein maine top 10 jagah dikhayi hain jaha November mein jaana chahiye, budget tips ke saath. Last wali jagah ka ek warning bhi hai jo miss mat karna. Fakira Musafir pe aise hi budget travel guides aate rehte hain, subscribe zaroor karna.
+
+TAGS:
+november travel india, best places to visit november, india travel guide, fakira musafir, budget travel india, rann utsav, pushkar fair, ladakh last window, kerala backwaters, coorg travel, jaisalmer trip, andaman islands, munnar tea gardens, indian traveler, winter travel india
+
+THUMBNAIL_TEXT:
+TOP 10 NOVEMBER!
+
+THUMBNAIL_PROMPT:
+Collage-style YouTube thumbnail featuring an amazed young Indian traveler in the foreground pointing at the camera, with small inset visuals behind him of Rann of Kutch white desert, Kerala backwaters houseboat, and Ladakh mountains, golden hour lighting, bold yellow "TOP 10" text, high contrast, vibrant colors, professional YouTube thumbnail style
+
+SCRIPT:
+[HOOK] Guys, saal ka ek mahina aisa hota hai jab India ki har jagah apne sabse khoobsurat roop mein hoti hai - na garmi ka jhanjhat, na thand ki kaanpna. [B-ROLL: pleasant weather india]
+Woh mahina hai November, aur aaj main tumhe top 10 jagah dikhaunga jaha is mahine zaroor jaana chahiye. [B-ROLL: india map travel]
+
+Kya scene hai bhai, Fakira Musafir mein tumhara swagat hai. Main hoon tumhara desi traveler dost, aur aaj ka topic hai - November ki best travel list. [B-ROLL: indian traveler vlogging]
+Video ke end tak rukna, kyunki number ek par ek zaroori warning bhi hai jo tumhara trip bacha sakta hai. [B-ROLL: excited tourist]
+
+Number das - Ooty, Tamil Nadu. [B-ROLL: ooty hills tea garden] [ON-SCREEN TEXT: OOTY]
+November mein yaha thand shuru hoti hai lekin bheed kam hoti hai, matlab sasta stay aur khaali toy train. [B-ROLL: toy train ooty]
+
+Number nau - Andaman Islands. [B-ROLL: andaman beach aerial] [ON-SCREEN TEXT: ANDAMAN]
+Dry season shuru ho jaata hai, paani bilkul saaf hota hai, scuba diving ke liye yehi best time hai. [B-ROLL: scuba diving underwater]
+
+Number aath - Goa. [B-ROLL: goa beach sunset] [ON-SCREEN TEXT: GOA]
+Season officially November mein hi start hota hai, shacks khulte hain aur rates bhi peak December se kaafi kam hote hain. [B-ROLL: goa beach shacks]
+
+Number saat - Pushkar, Rajasthan. [B-ROLL: pushkar lake camels] [ON-SCREEN TEXT: PUSHKAR]
+Yaha world famous Camel Fair lagta hai, hazaaron unth aur ek poora mela dekhne milta hai jo saal mein sirf ek baar hota hai. [B-ROLL: camel fair crowd]
+
+Number cheh - Jaisalmer, Rajasthan. [B-ROLL: jaisalmer fort desert] [ON-SCREEN TEXT: JAISALMER]
+Registan mein thand shuru ho jaati hai, matlab din mein dhoop aur raat mein desert camping dono enjoy kar sakte ho. [B-ROLL: desert camping night]
+
+[REHOOK] Ab jo agli teen jagah hain, unme se ek jagah zyada log miss kar dete hain kyunki unhe pata hi nahi hota. [B-ROLL: hidden gem travel]
+
+Number paanch - Munnar, Kerala. [B-ROLL: munnar tea gardens mist] [ON-SCREEN TEXT: MUNNAR]
+Chai baagano ke beech mein thandi hawa aur waterfalls abhi bhi baarish ke baad bhare hue milte hain. [B-ROLL: waterfall kerala]
+
+Number chaar - Coorg, Karnataka. [B-ROLL: coorg coffee estate] [ON-SCREEN TEXT: COORG]
+Coffee ki harvesting season chalti hai, poori wadi coffee ki khushbu se bhari rehti hai aur mausam bilkul perfect hota hai. [B-ROLL: coffee harvest]
+
+Number teen - Rann of Kutch, Gujarat. [B-ROLL: white desert rann kutch] [ON-SCREEN TEXT: RANN UTSAV]
+November mein Rann Utsav shuru hota hai - poora safed registan tambu aur lights se saj jaata hai, full moon raat sabse zyada khoobsurat hoti hai. [B-ROLL: rann utsav night tents]
+
+Number do - Kerala Backwaters, Alleppey. [B-ROLL: kerala houseboat backwaters] [ON-SCREEN TEXT: ALLEPPEY]
+Baarish ke baad hariyali apne peak par hoti hai, aur houseboat ka season bhi yahi se shuru hota hai. [B-ROLL: houseboat sunset]
+
+[REHOOK] Aur ab number ek - lekin isme ek badi warning bhi hai jo tumhe pata hona chahiye. [B-ROLL: warning sign travel]
+
+Number ek - Ladakh. [B-ROLL: ladakh mountains road] [ON-SCREEN TEXT: LADAKH]
+Yeh November ka last window hota hai jab tak passes khule rehte hain, uske baad bhaari snowfall se raste band ho jaate hain. [B-ROLL: snowfall mountain pass]
+Isliye agar Ladakh jaana hai to pehle hafte mein hi plan kar lo, warna agla mauka seedha May-June mein milega. [B-ROLL: calendar travel plan]
+
+Toh guys, yeh the top 10 jagah jaha November mein zaroor jaana chahiye - registan se lekar backwaters tak, sab kuch is ek mahine mein possible hai. [B-ROLL: india travel montage]
+
+Comment karo tumhe inme se kaunsi jagah sabse zyada pasand aayi?
+===END===
+
+===TYPE: SHORT1===
+TITLE:
+1. Yeh Registan November Mein Jannat Ban Jaata Hai 😍 #Shorts
+
+DESCRIPTION:
+Rann Utsav ka raaz jo har kisi ko pata nahi. Fakira Musafir.
+
+TAGS:
+rann utsav shorts, gujarat travel, white desert, fakira musafir, november travel, budget travel india, shorts india, indian traveler, kutch trip, viral shorts
+
+THUMBNAIL_TEXT:
+YEH REGISTAN?!
+
+THUMBNAIL_PROMPT:
+Close-up shocked Indian traveler face with the white salt desert of Rann of Kutch and colorful tents blurred in background at night, bold white and gold text, high contrast YouTube shorts thumbnail
+
+SCRIPT:
+Yeh jo safed registan dikh raha hai na, yeh November mein raaton raat ek poore mele mein badal jaata hai. [B-ROLL: rann kutch white desert] [ON-SCREEN TEXT: RANN UTSAV]
+Iska naam hai Rann Utsav, aur yeh sirf November se February tak hi chalta hai. [B-ROLL: rann utsav tents]
+Full moon ki raat ko yaha jaana best hota hai - poora registan chandni mein chamakta hai. [B-ROLL: full moon desert night]
+Stay bhi Swiss tents mein milta hai, aur budget mein bhi ho jaata hai agar early book karo. [B-ROLL: tent camping]
+Part 2 chahiye? Comment karo - Fakira.
+===END===
+
+===TYPE: SHORT2===
+TITLE:
+1. Ladakh Jaane Ka Last Chance Yehi Hai ⏳ #Shorts
+
+DESCRIPTION:
+November ke baad Ladakh band ho jaata hai. Fakira Musafir.
+
+TAGS:
+ladakh shorts, november travel, last window ladakh, fakira musafir, budget travel india, mountain travel, shorts india, indian traveler, road trip india, viral shorts
+
+THUMBNAIL_TEXT:
+LAST CHANCE!
+
+THUMBNAIL_PROMPT:
+Worried young Indian traveler looking at a snow-covered mountain road with a closing gate overlay, dramatic red warning text, high contrast shorts thumbnail style
+
+SCRIPT:
+Agar Ladakh jaane ka soch rahe ho, toh November ka pehla hafta tumhara last chance hai. [B-ROLL: ladakh road mountains] [ON-SCREEN TEXT: LAST WINDOW]
+Uske baad heavy snowfall se saare passes band ho jaate hain. [B-ROLL: snowfall mountain pass]
+Phir agla mauka seedha May ya June mein milega - poore paanch mahine ka gap. [B-ROLL: calendar dates]
+Isliye agar plan hai toh abhi book karo, last minute mat chodo. [B-ROLL: booking phone]
+Part 2 chahiye? Comment karo - Fakira.
+===END===
+
+===TYPE: SHORT3===
+TITLE:
+1. Yeh Fair Saal Mein Sirf Ek Baar Lagta Hai 🐫 #Shorts
+
+DESCRIPTION:
+Pushkar Camel Fair ka scene dekhne layak hota hai. Fakira Musafir.
+
+TAGS:
+pushkar fair shorts, rajasthan travel, camel fair, fakira musafir, november travel, budget travel india, shorts india, indian traveler, rajasthan trip, viral shorts
+
+THUMBNAIL_TEXT:
+SAAL MEIN EK BAAR!
+
+THUMBNAIL_PROMPT:
+Excited young Indian traveler amazed expression with hundreds of camels and a colorful desert fair crowd in the background at Pushkar, warm golden light, bold thumbnail text, high contrast YouTube shorts style
+
+SCRIPT:
+Yeh jo hazaaron unth dikh rahe hain na, yeh saal mein sirf ek baar, ek hi jagah jama hote hain. [B-ROLL: pushkar camel fair crowd] [ON-SCREEN TEXT: PUSHKAR FAIR]
+Iska naam hai Pushkar Camel Fair, aur yeh November mein lagta hai. [B-ROLL: pushkar lake]
+Yaha camel racing, local mela, aur poora Rajasthani culture ek saath dekhne milta hai. [B-ROLL: camel racing rajasthan]
+Budget stay bhi mil jaata hai kyunki local log tents rent pe dete hain. [B-ROLL: desert camp tent]
+Part 2 chahiye? Comment karo - Fakira.
+===END===
